@@ -1,0 +1,393 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4542
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+UnloadTime: 1.413708 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2394 -> priority: 1 
+  Thread -> id: 2374 -> priority: 1 
+  Thread -> id: 2398 -> priority: 1 
+  Thread -> id: 2370 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.973708 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 548.
+Total: 1.122253 ms (FindLiveObjects: 0.054084 ms CreateObjectMapping: 0.030046 ms MarkObjects: 0.135812 ms  DeleteObjects: 0.902009 ms)
+
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Haley Currence\Desktop\RamHacks Driving Simulator CNU v1.3_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.348244 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.230760 ms (FindLiveObjects: 0.051981 ms CreateObjectMapping: 0.012920 ms MarkObjects: 0.161953 ms  DeleteObjects: 0.003305 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.453408 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.193164 ms (FindLiveObjects: 0.044769 ms CreateObjectMapping: 0.011718 ms MarkObjects: 0.155342 ms  DeleteObjects: 0.981032 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.461220 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.711511 ms (FindLiveObjects: 0.033051 ms CreateObjectMapping: 0.028845 ms MarkObjects: 0.144225 ms  DeleteObjects: 0.488563 ms)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.063361 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.259906 ms (FindLiveObjects: 0.055286 ms CreateObjectMapping: 0.018929 ms MarkObjects: 0.181483 ms  DeleteObjects: 0.003605 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.353953 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.164018 ms (FindLiveObjects: 0.044169 ms CreateObjectMapping: 0.011718 ms MarkObjects: 0.176375 ms  DeleteObjects: 0.931455 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579004 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.904413 ms (FindLiveObjects: 0.065201 ms CreateObjectMapping: 0.036957 ms MarkObjects: 0.219042 ms  DeleteObjects: 0.582910 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.903511 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.273126 ms (FindLiveObjects: 0.059793 ms CreateObjectMapping: 0.019530 ms MarkObjects: 0.187192 ms  DeleteObjects: 0.006309 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.559173 ms
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 2.311211 ms (FindLiveObjects: 0.027042 ms CreateObjectMapping: 0.029145 ms MarkObjects: 0.158347 ms  DeleteObjects: 2.096375 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.569089 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.856338 ms (FindLiveObjects: 0.050178 ms CreateObjectMapping: 0.014122 ms MarkObjects: 0.175774 ms  DeleteObjects: 0.615962 ms)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.084394 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.267117 ms (FindLiveObjects: 0.035755 ms CreateObjectMapping: 0.015323 ms MarkObjects: 0.212131 ms  DeleteObjects: 0.003605 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412544 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.238835 ms (FindLiveObjects: 0.028845 ms CreateObjectMapping: 0.026441 ms MarkObjects: 0.165258 ms  DeleteObjects: 1.018291 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.546553 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.608150 ms (FindLiveObjects: 0.018328 ms CreateObjectMapping: 0.013220 ms MarkObjects: 0.160150 ms  DeleteObjects: 0.416450 ms)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.397483 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.235568 ms (FindLiveObjects: 0.033051 ms CreateObjectMapping: 0.016225 ms MarkObjects: 0.181784 ms  DeleteObjects: 0.003906 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.388206 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.230422 ms (FindLiveObjects: 0.031248 ms CreateObjectMapping: 0.012018 ms MarkObjects: 0.141521 ms  DeleteObjects: 1.045333 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.408638 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 1.015887 ms (FindLiveObjects: 0.121389 ms CreateObjectMapping: 0.038159 ms MarkObjects: 0.192901 ms  DeleteObjects: 0.662835 ms)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.846384 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.365370 ms (FindLiveObjects: 0.081727 ms CreateObjectMapping: 0.024338 ms MarkObjects: 0.250591 ms  DeleteObjects: 0.008413 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.539342 ms
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 2.134835 ms (FindLiveObjects: 0.029746 ms CreateObjectMapping: 0.011417 ms MarkObjects: 0.121690 ms  DeleteObjects: 1.971680 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.551061 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.766497 ms (FindLiveObjects: 0.053784 ms CreateObjectMapping: 0.013821 ms MarkObjects: 0.178178 ms  DeleteObjects: 0.520413 ms)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679361 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.300769 ms (FindLiveObjects: 0.051680 ms CreateObjectMapping: 0.015924 ms MarkObjects: 0.228657 ms  DeleteObjects: 0.003906 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362666 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.145690 ms (FindLiveObjects: 0.027643 ms CreateObjectMapping: 0.011417 ms MarkObjects: 0.131906 ms  DeleteObjects: 0.974422 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437784 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.838610 ms (FindLiveObjects: 0.105765 ms CreateObjectMapping: 0.019230 ms MarkObjects: 0.202516 ms  DeleteObjects: 0.510197 ms)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.796206 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.309784 ms (FindLiveObjects: 0.067906 ms CreateObjectMapping: 0.020131 ms MarkObjects: 0.213633 ms  DeleteObjects: 0.007812 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.547755 ms
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 2.237596 ms (FindLiveObjects: 0.027042 ms CreateObjectMapping: 0.028244 ms MarkObjects: 0.136713 ms  DeleteObjects: 2.045596 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734647 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1271.
+Total: 0.926347 ms (FindLiveObjects: 0.082629 ms CreateObjectMapping: 0.051680 ms MarkObjects: 0.175173 ms  DeleteObjects: 0.616563 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.506591 ms
+
+Unloading 98 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 2.208150 ms (FindLiveObjects: 0.012619 ms CreateObjectMapping: 0.028845 ms MarkObjects: 0.140018 ms  DeleteObjects: 2.026366 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521615 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.805859 ms (FindLiveObjects: 0.055586 ms CreateObjectMapping: 0.029746 ms MarkObjects: 0.174272 ms  DeleteObjects: 0.545652 ms)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.730140 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.224450 ms (FindLiveObjects: 0.030046 ms CreateObjectMapping: 0.013220 ms MarkObjects: 0.168262 ms  DeleteObjects: 0.012018 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1514)
+
+The referenced script on this Behaviour (Game Object 'Desert_Road') is missing!
+ 
+(Filename:  Line: 1743)
+
+A script behaviour (probably UnityEngine.VR.WSA.SpatialMappingCollider?) has a different serialization layout when loading. (Read 32 bytes but expected 100 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1879)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.370478 ms
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.059154 ms (FindLiveObjects: 0.025840 ms CreateObjectMapping: 0.026441 ms MarkObjects: 0.137314 ms  DeleteObjects: 0.868657 ms)
+
